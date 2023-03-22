@@ -1,0 +1,90 @@
+
+
+body {
+    font-size: 22px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    font-family: monospace
+}
+
+p {
+    font-family: 'Delicious Handrawn', cursive;
+}
+
+.highlight {
+    background-color: gold;
+}
+
+#pchild {
+    color: green;
+}
+h1{
+    color: aqua;
+}
+/*
+ul .li-class{
+    color: brown;
+    font-size: 40px;
+}
+*/
+/* 
+ul{
+    list-style-type: circle;
+    list-style-position: inside;
+    color: aqua;
+    font-size: 25px;
+    font-weight: 700;
+    list-style-image: url(./img/checklist.png);
+}
+*/
+a{
+    font-size: 44px;
+    color: #27475a;
+    
+
+}
+
+a:hover {
+    color: aquamarine;
+    text-decoration: none;
+}
+
+a:active{
+    color: black;
+}
+
+a:visited{
+    color: blueviolet;
+}
+
+ul li:nth-child(1){
+    color: #4ea4d6;
+}
+ul li:nth-child(2){
+    color: #3fcca2;
+}
+ul li:nth-child(3){
+    color: #8d447d;
+}
+ul li:nth-child(4){
+    color: #a07441;
+}
+
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+ul{
+    list-style-type: none;
+    padding: 0.5px;
+
+}
